@@ -1,0 +1,218 @@
+{
+  "730": {
+    "name": "Counter-Strike 2",
+    "genres": ["动作", "免费开玩"],
+    "categories": ["多人", "跨平台多人", "Steam 成就", "完全支持控制器"],
+    "tags": ["FPS", "Shooter", "Multiplayer", "Competitive", "Action", "Tactical", "eSports"]
+  },
+  "570": {
+    "name": "Dota 2",
+    "genres": ["动作", "策略", "免费开玩"],
+    "categories": ["多人", "跨平台多人", "Steam 创意工坊"],
+    "tags": ["MOBA", "Strategy", "Multiplayer", "Team-Based", "Competitive", "eSports"]
+  },
+  "578080": {
+    "name": "PUBG: BATTLEGROUNDS",
+    "genres": ["动作", "冒险", "大型多人在线", "免费开玩"],
+    "categories": ["多人", "在线玩家对战", "在线合作", "完全支持控制器"],
+    "tags": ["Survival", "Shooter", "Battle Royale", "Multiplayer", "FPS", "PvP", "Action"]
+  },
+  "431960": {
+    "name": "Wallpaper Engine",
+    "genres": ["动画与建模", "设计与插画", "实用工具"],
+    "categories": ["Steam 创意工坊", "Steam 成就"],
+    "tags": ["Software", "Animation & Modeling", "Utility", "Design & Illustration", "Anime"]
+  },
+  "413150": {
+    "name": "Stardew Valley (星露谷物语)",
+    "genres": ["独立", "角色扮演", "模拟"],
+    "categories": ["单人", "多人", "合作", "在线合作", "同屏/分屏合作", "完全支持控制器"],
+    "tags": ["Farming Sim", "Pixel Graphics", "Life Sim", "Multiplayer", "RPG", "Relaxing", "Crafting", "Cozy"]
+  },
+  "1245620": {
+    "name": "Elden Ring (艾尔登法环)",
+    "genres": ["动作", "角色扮演"],
+    "categories": ["单人", "多人", "在线玩家对战", "完全支持控制器"],
+    "tags": ["Souls-like", "Dark Fantasy", "Open World", "RPG", "Action RPG", "Difficult", "Action"]
+  },
+  "1086940": {
+    "name": "Baldur's Gate 3 (博德之门3)",
+    "genres": ["冒险", "角色扮演", "策略"],
+    "categories": ["单人", "多人", "合作", "在线合作", "同屏/分屏合作", "完全支持控制器"],
+    "tags": ["CRPG", "Choices Matter", "Turn-Based Combat", "RPG", "Dungeons & Dragons", "Story Rich", "Fantasy"]
+  },
+  "2358720": {
+    "name": "Black Myth: Wukong (黑神话：悟空)",
+    "genres": ["动作", "冒险", "角色扮演"],
+    "categories": ["单人", "Steam 成就", "完全支持控制器"],
+    "tags": ["Action RPG", "Mythology", "Souls-like", "Action", "Singleplayer", "Great Soundtrack", "Fantasy"]
+  },
+  "1091500": {
+    "name": "Cyberpunk 2077 (赛博朋克 2077)",
+    "genres": ["角色扮演"],
+    "categories": ["单人", "Steam 成就", "完全支持控制器"],
+    "tags": ["Cyberpunk", "Open World", "RPG", "Sci-fi", "Story Rich", "Futuristic", "Action RPG", "FPS"]
+  },
+  "271590": {
+    "name": "Grand Theft Auto V",
+    "genres": ["动作", "冒险"],
+    "categories": ["单人", "多人", "在线玩家对战", "完全支持控制器"],
+    "tags": ["Open World", "Action", "Multiplayer", "Crime", "Shooter", "Third Person", "First-Person"]
+  },
+  "550": {
+    "name": "Left 4 Dead 2 (求生之路2)",
+    "genres": ["动作"],
+    "categories": ["单人", "多人", "合作", "在线合作", "Steam 创意工坊", "完全支持控制器"],
+    "tags": ["Zombies", "Co-op", "FPS", "Multiplayer", "Action", "Shooter", "Survival Horror", "Moddable"]
+  },
+  "1172470": {
+    "name": "Apex Legends",
+    "genres": ["动作", "冒险", "免费开玩"],
+    "categories": ["多人", "在线玩家对战", "在线合作", "完全支持控制器"],
+    "tags": ["Battle Royale", "FPS", "Multiplayer", "Shooter", "First-Person", "Action", "Free to Play"]
+  },
+  "1145360": {
+    "name": "Hades (黑帝斯)",
+    "genres": ["动作", "独立", "角色扮演"],
+    "categories": ["单人", "Steam 成就", "完全支持控制器"],
+    "tags": ["Rogue-like", "Action Roguelike", "Mythology", "Fast-Paced", "Hack and Slash", "Great Soundtrack", "Indie"]
+  },
+  "367520": {
+    "name": "Hollow Knight (空洞骑士)",
+    "genres": ["动作", "冒险", "独立"],
+    "categories": ["单人", "Steam 成就", "完全支持控制器"],
+    "tags": ["Metroidvania", "Souls-like", "Difficult", "2D", "Platformer", "Atmospheric", "Great Soundtrack", "Indie"]
+  },
+  "105600": {
+    "name": "Terraria (泰拉瑞亚)",
+    "genres": ["动作", "冒险", "独立", "角色扮演"],
+    "categories": ["单人", "多人", "在线合作", "同屏/分屏合作", "完全支持控制器"],
+    "tags": ["Sandbox", "Survival", "2D", "Multiplayer", "Adventure", "Crafting", "Open World", "Pixel Graphics"]
+  },
+  "252490": {
+    "name": "Rust",
+    "genres": ["动作", "冒险", "独立", "大型多人在线", "角色扮演"],
+    "categories": ["多人", "大型多人在线", "在线玩家对战", "在线合作"],
+    "tags": ["Survival", "Crafting", "Multiplayer", "Open World", "Open World Survival Craft", "PvP", "Sandbox"]
+  },
+  "381210": {
+    "name": "Dead by Daylight (黎明杀机)",
+    "genres": ["动作"],
+    "categories": ["多人", "在线玩家对战", "在线合作", "完全支持控制器"],
+    "tags": ["Horror", "Survival Horror", "Multiplayer", "Multiplayer Asymmetric", "Online Co-Op", "Stealth", "Action"]
+  },
+  "814380": {
+    "name": "Sekiro: Shadows Die Twice (只狼：影逝二度)",
+    "genres": ["动作", "冒险"],
+    "categories": ["单人", "Steam 成就", "完全支持控制器"],
+    "tags": ["Souls-like", "Difficult", "Action", "Ninja", "Atmospheric", "Swordplay", "Singleplayer", "Third Person"]
+  },
+  "427520": {
+    "name": "Factorio (异星工厂)",
+    "genres": ["休闲", "独立", "模拟", "策略"],
+    "categories": ["单人", "多人", "在线合作", "局域网合作"],
+    "tags": ["Automation", "Base Building", "Resource Management", "Engineering", "Strategy", "Management", "Multiplayer"]
+  },
+  "294100": {
+    "name": "RimWorld (边缘世界)",
+    "genres": ["独立", "模拟", "策略"],
+    "categories": ["单人", "Steam 创意工坊", "Steam 成就"],
+    "tags": ["Colony Sim", "Base Building", "Survival", "Management", "Sandbox", "Strategy", "Sci-fi", "Simulation"]
+  },
+  "289070": {
+    "name": "Sid Meier's Civilization VI (文明6)",
+    "genres": ["策略"],
+    "categories": ["单人", "多人", "局域网多人", "跨平台多人", "Steam 创意工坊"],
+    "tags": ["Strategy", "Turn-Based Strategy", "Historical", "Turn-Based", "Multiplayer", "4X", "Singleplayer"]
+  },
+  "1623730": {
+    "name": "Palworld (幻兽帕鲁)",
+    "genres": ["动作", "冒险", "独立", "角色扮演"],
+    "categories": ["单人", "多人", "在线合作", "完全支持控制器"],
+    "tags": ["Open World Survival Craft", "Creature Collector", "Multiplayer", "Crafting", "Open World", "Survival"]
+  },
+  "582010": {
+    "name": "Monster Hunter: World (怪物猎人：世界)",
+    "genres": ["动作"],
+    "categories": ["单人", "多人", "在线合作", "完全支持控制器"],
+    "tags": ["Action", "Hunting", "Multiplayer", "RPG", "Online Co-Op", "Action RPG", "Third Person", "Difficult"]
+  },
+  "1446780": {
+    "name": "MONSTER HUNTER RISE (怪物猎人：崛起)",
+    "genres": ["动作"],
+    "categories": ["单人", "多人", "在线合作", "完全支持控制器"],
+    "tags": ["Action", "Hunting", "Online Co-Op", "Multiplayer", "Action RPG", "RPG", "Third Person"]
+  },
+  "1969870": {
+    "name": "Apex Legends (Legacy)",
+    "genres": ["动作"],
+    "categories": ["多人"],
+    "tags": ["FPS", "Multiplayer", "Shooter"]
+  },
+  "255710": {
+    "name": "Cities: Skylines (城市：天际线)",
+    "genres": ["模拟", "策略"],
+    "categories": ["单人", "Steam 创意工坊", "Steam 成就", "完全支持控制器"],
+    "tags": ["City Builder", "Simulation", "Management", "Building", "Strategy", "Sandbox", "Singleplayer"]
+  },
+  "290510": {
+    "name": "Fallout Shelter (辐射：避难所)",
+    "genres": ["免费开玩", "角色扮演", "模拟"],
+    "categories": ["单人", "Steam 成就"],
+    "tags": ["Free to Play", "Post-apocalyptic", "Management", "Building", "Survival", "Simulation", "RPG"]
+  },
+  "304930": {
+    "name": "Unturned",
+    "genres": ["动作", "冒险", "休闲", "免费开玩", "独立"],
+    "categories": ["单人", "多人", "在线玩家对战", "在线合作", "Steam 创意工坊"],
+    "tags": ["Free to Play", "Survival", "Zombies", "Multiplayer", "Open World", "Crafting", "Shooter"]
+  },
+  "365670": {
+    "name": "Blender",
+    "genres": ["动画与建模", "设计与插画", "视频制作"],
+    "categories": ["Steam 创意工坊"],
+    "tags": ["Free to Play", "Animation & Modeling", "Design & Illustration", "Software", "3D"]
+  },
+  "945360": {
+    "name": "Among Us (太空狼人杀)",
+    "genres": ["休闲"],
+    "categories": ["多人", "在线玩家对战", "在线合作", "跨平台多人", "完全支持控制器"],
+    "tags": ["Multiplayer", "Social Deduction", "Survival", "Space", "Casual", "Party Game", "Co-op"]
+  },
+  "1114940": {
+    "name": "Outer Wilds (星际拓荒)",
+    "genres": ["动作", "冒险"],
+    "categories": ["单人", "Steam 成就", "完全支持控制器"],
+    "tags": ["Exploration", "Space", "Story Rich", "Mystery", "Atmospheric", "Great Soundtrack", "Adventure"]
+  },
+  "939400": {
+    "name": "The Falconeer",
+    "genres": ["动作", "角色扮演"],
+    "categories": ["单人", "完全支持控制器"],
+    "tags": ["Flight", "Action", "RPG", "Indie", "Atmospheric", "Open World"]
+  },
+  "1280770": {
+    "name": "Phasmophobia (恐鬼症)",
+    "genres": ["动作", "独立"],
+    "categories": ["单人", "多人", "在线合作", "VR 支持"],
+    "tags": ["Horror", "Online Co-Op", "Multiplayer", "Psychological Horror", "VR", "Investigation", "Survival Horror"]
+  },
+  "1551360": {
+    "name": "Forza Horizon 5 (极限竞速：地平线5)",
+    "genres": ["动作", "冒险", "竞速", "模拟", "体育"],
+    "categories": ["单人", "多人", "在线玩家对战", "在线合作", "完全支持控制器"],
+    "tags": ["Racing", "Open World", "Driving", "Multiplayer", "Automobile Sim", "Sports", "Realistic"]
+  },
+  "2009240": {
+    "name": "The Elder Scrolls Online (试玩/工具)",
+    "genres": ["角色扮演", "大型多人在线"],
+    "categories": ["多人", "大型多人在线"],
+    "tags": ["MMORPG", "RPG", "Open World", "Fantasy"]
+  },
+  "2868840": {
+    "name": "Soundpad",
+    "genres": ["实用工具"],
+    "categories": ["Steam 创意工坊"],
+    "tags": ["Utilities", "Audio Production"]
+  }
+}

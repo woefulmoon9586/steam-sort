@@ -1,0 +1,5896 @@
+{
+  "5": {
+    "name": "App 5",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/5/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "7": {
+    "name": "App 7",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/7/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "70": {
+    "name": "Half-Life",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/70/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "219": {
+    "name": "Half-Life 2: Demo",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/219/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "220": {
+    "name": "Half-Life 2",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/220/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "400": {
+    "name": "Portal",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/400/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "410": {
+    "name": "Portal: First Slice",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/410/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "440": {
+    "name": "Team Fortress 2",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/440/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "480": {
+    "name": "Spacewar",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/480/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "550": {
+    "name": "Left 4 Dead 2 (求生之路2)",
+    "genres": [
+      "动作"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "Steam 创意工坊",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Zombies",
+      "Co-op",
+      "FPS",
+      "Multiplayer",
+      "Action",
+      "Shooter",
+      "Survival Horror",
+      "Moddable"
+    ]
+  },
+  "570": {
+    "name": "Dota 2",
+    "genres": [
+      "动作",
+      "策略",
+      "免费开玩"
+    ],
+    "categories": [
+      "多人",
+      "跨平台多人",
+      "Steam 创意工坊"
+    ],
+    "tags": [
+      "MOBA",
+      "Strategy",
+      "Multiplayer",
+      "Team-Based",
+      "Competitive",
+      "eSports"
+    ]
+  },
+  "620": {
+    "name": "Portal 2",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "支持字幕",
+      "Steam 创意工坊",
+      "Steam 创意工坊",
+      "视角舒适度",
+      "自定义音量控制",
+      "无需应对快速反应事件",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "随时保存",
+      "Steam 输入 API 支持",
+      "立体声",
+      "环绕声",
+      "Steam 云",
+      "统计数据",
+      "包含关卡编辑器",
+      "解说可用",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/faffc0f560786e2f05104a8d2fac837c6969bf13/header.jpg?t=1790187113",
+    "short_description": "“终身测试计划”现已升级，您可以为您自己或您的好友设计合作谜题！",
+    "release_date": "2011 年 4 月 18 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "730": {
+    "name": "Counter-Strike 2",
+    "genres": [
+      "动作",
+      "免费开玩"
+    ],
+    "categories": [
+      "多人",
+      "跨平台多人",
+      "Steam 成就",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "FPS",
+      "Shooter",
+      "Multiplayer",
+      "Competitive",
+      "Action",
+      "Tactical",
+      "eSports"
+    ]
+  },
+  "731": {
+    "name": "App 731",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/731/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "732": {
+    "name": "App 732",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/732/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "735": {
+    "name": "App 735",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/735/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "736": {
+    "name": "App 736",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/736/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "737": {
+    "name": "App 737",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/737/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "738": {
+    "name": "App 738",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/738/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "760": {
+    "name": "App 760",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/760/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1200": {
+    "name": "Red Orchestra: Ostfront 41-45",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1200/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1250": {
+    "name": "Killing Floor",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1250/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1840": {
+    "name": "Source Filmmaker",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1840/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "4000": {
+    "name": "Garry's Mod",
+    "type": "game",
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "局域网玩家对战",
+      "合作",
+      "在线合作",
+      "局域网合作",
+      "跨平台多人",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "支持字幕",
+      "Steam 创意工坊",
+      "可选颜色",
+      "自定义音量控制",
+      "可调整难度",
+      "无需应对快速反应事件",
+      "随时保存",
+      "立体声",
+      "Steam 云",
+      "已启用 Valve 反作弊保护",
+      "包含关卡编辑器",
+      "包括 Source SDK",
+      "在平板上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682",
+    "short_description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+    "release_date": "2006 年 11 月 29 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "18000": {
+    "name": "On the Rain-Slick Precipice of Darkness, Episode One",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/18000/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "18010": {
+    "name": "Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness, Episode One Demo",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/18010/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "18020": {
+    "name": "On the Rain-Slick Precipice of Darkness, Episode Two",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/18020/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "18030": {
+    "name": "Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness, Episode Two Demo",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/18030/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "22150": {
+    "name": "Europa Universalis III Demo",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/22150/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "25800": {
+    "name": "Europa Universalis III",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/25800/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "42750": {
+    "name": "App 42750",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/42750/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "43160": {
+    "name": "App 43160",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/43160/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "55280": {
+    "name": "App 55280",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/55280/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "56400": {
+    "name": "Warhammer 40,000: Dawn of War II - Retribution",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/56400/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "105600": {
+    "name": "Terraria (泰拉瑞亚)",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "在线合作",
+      "同屏/分屏合作",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Sandbox",
+      "Survival",
+      "2D",
+      "Multiplayer",
+      "Adventure",
+      "Crafting",
+      "Open World",
+      "Pixel Graphics"
+    ]
+  },
+  "203160": {
+    "name": "Tomb Raider Game of the Year",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/13a6dfaa4655377988aa627f03b2322f8bf18ec9/header_alt_assets_0.jpg?t=1792674634",
+    "short_description": "《古墓丽影》探索了劳拉·克劳馥紧张的起源故事，以及她从年轻女人变为坚强生存者的成长过程。",
+    "release_date": "2013 年 3 月 4 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "206440": {
+    "name": "To the Moon《去月球》",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/header.jpg?t=1792212569",
+    "short_description": "这是一个讲述两个博士借由改变记忆为弥留之际的人们完成他们人生最后愿望的故事。",
+    "release_date": "2012 年 9 月 7 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "207610": {
+    "name": "The Walking Dead",
+    "type": "game",
+    "genres": [
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/header.jpg?t=1729702559",
+    "short_description": "A five-part adventure horror series set in the same universe as Robert Kirkman’s award-winning comic book series.",
+    "release_date": "2012 年 4 月 24 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "219740": {
+    "name": "饥荒",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 创意工坊",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219740/7cf7e37c34760769f1021489a26dc3c59cee5c8f/header_schinese.jpg?t=1790876891",
+    "short_description": "《饥荒》是一款绝不妥协的荒野生存游戏，游戏世界充满了科学与魔法。你将踏入一个未被探索的陌生世界，那里遍布奇异生物、危险与惊喜。收集资源，制作物品、建造建筑，玩出属于你自己的求生风格。",
+    "release_date": "2013 年 4 月 23 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "223390": {
+    "name": "Forge",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/223390/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "227300": {
+    "name": "Euro Truck Simulator 2",
+    "type": "game",
+    "genres": [
+      "独立",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "Steam 创意工坊",
+      "视角舒适度",
+      "自定义音量控制",
+      "可调整难度",
+      "可以仅用键盘",
+      "无需应对快速反应事件",
+      "随时保存",
+      "Steam 输入 API 支持",
+      "立体声",
+      "环绕声",
+      "部分支持控制器",
+      "Steam 云",
+      "包含关卡编辑器",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1793285269",
+    "short_description": "像公路之王一样在欧洲穿行， 将价值不菲的货物完美送抵远方！往返于英国，比利时，德国，意大利，荷兰，波兰等众多城市；您的耐力，技巧，速度都被您发挥到了极致！",
+    "release_date": "2012 年 10 月 12 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "228983": {
+    "name": "App 228983",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/228983/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "228988": {
+    "name": "App 228988",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/228988/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "239140": {
+    "name": "Dying Light",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 创意工坊",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 云",
+      "已启用 Valve 反作弊保护",
+      "包含关卡编辑器",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/header_schinese.jpg?t=1793627304",
+    "short_description": "以丧尸横行的末世为背景的开放世界第一人称动作生存游戏。在一个被神秘病毒摧残过后的城市里漫游。收集物资，制作武器并迎战成群的感染者。",
+    "release_date": "2015 年 1 月 26 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "241100": {
+    "name": "App 241100",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/241100/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "242760": {
+    "name": "The Forest",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "局域网合作",
+      "定位控制器支持",
+      "已支持 VR",
+      "部分支持控制器",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
+    "short_description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator.",
+    "release_date": "2018 年 4 月 30 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "250900": {
+    "name": "The Binding of Isaac: Rebirth",
+    "type": "game",
+    "genres": [
+      "动作"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
+    "short_description": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+    "release_date": "2014 年 11 月 4 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "251570": {
+    "name": "7 Days to Die",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "局域网玩家对战",
+      "合作",
+      "在线合作",
+      "局域网合作",
+      "跨平台多人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "包含关卡编辑器",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1793815172",
+    "short_description": "《7 Days》是一款开放世界游戏，独具特色地融合了第一人称射击、生存恐怖、塔防和角色扮演等多种游戏的特征。快来体验这款具有开创性的终极丧尸生存沙盒角色扮演游戏吧。纳维戈恩在等着你！",
+    "release_date": "2024 年 7 月 25 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "252490": {
+    "name": "Rust",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "大型多人在线",
+      "角色扮演"
+    ],
+    "categories": [
+      "多人",
+      "大型多人在线",
+      "在线玩家对战",
+      "在线合作"
+    ],
+    "tags": [
+      "Survival",
+      "Crafting",
+      "Multiplayer",
+      "Open World",
+      "Open World Survival Craft",
+      "PvP",
+      "Sandbox"
+    ]
+  },
+  "255710": {
+    "name": "Cities: Skylines (城市：天际线)",
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 创意工坊",
+      "Steam 成就",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "City Builder",
+      "Simulation",
+      "Management",
+      "Building",
+      "Strategy",
+      "Sandbox",
+      "Singleplayer"
+    ]
+  },
+  "255711": {
+    "name": "App 255711",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255711/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "259810": {
+    "name": "送小羊回家",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "同屏/分屏玩家对战",
+      "合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 输入 API 支持",
+      "Steam 云",
+      "解说可用",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259810/header.jpg?t=1781168736",
+    "short_description": "加入《小羊肖恩》和他的朋友蒂米与雪莉的史诗冒险之旅，穿越洞穴、伦敦繁忙的街道，甚至穿越外太空，一起寻找绿色家园的草地。现在新增多人游戏模式、手柄支持、宽屏画面及更多精彩内容！",
+    "release_date": "2014 年 2 月 17 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "259811": {
+    "name": "App 259811",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/259811/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "259812": {
+    "name": "App 259812",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/259812/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "259813": {
+    "name": "App 259813",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/259813/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "261030": {
+    "name": "The Walking Dead: Season Two",
+    "type": "game",
+    "genres": [
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261030/header.jpg?t=1729703055",
+    "short_description": "The Walking Dead: Season Two continues the story of Clementine, a young girl orphaned by the undead apocalypse. Left to fend for herself, she has been forced to learn how to survive in a world gone mad.",
+    "release_date": "2013 年 12 月 17 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "264710": {
+    "name": "Subnautica - 深海迷航",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "已支持 VR",
+      "Steam 集换式卡牌",
+      "支持 VR",
+      "DUALSHOCK 控制器支持",
+      "Steam 云",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header_schinese.jpg?t=1777456112",
+    "short_description": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more - all while trying to survive.",
+    "release_date": "2018 年 1 月 23 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "268910": {
+    "name": "Cuphead",
+    "type": "game",
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg?t=1709068852",
+    "short_description": "《茶杯头》是一款以BOSS对战为主的经典横版卷轴类射击游戏。受上世纪30年代动画片的启发，游戏无论是画面还是音效都努力再现了当时的技术，如传统的赛璐璐手绘动画、水彩背景还有原声爵士乐录音等。",
+    "release_date": "2017 年 9 月 29 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "271590": {
+    "name": "Grand Theft Auto V",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "在线玩家对战",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Open World",
+      "Action",
+      "Multiplayer",
+      "Crime",
+      "Shooter",
+      "Third Person",
+      "First-Person"
+    ]
+  },
+  "274190": {
+    "name": "Broforce",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "同屏/分屏玩家对战",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "包含关卡编辑器",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274190/header.jpg?t=1764247760",
+    "short_description": "《Broforce》是一款动作场面满满的横向卷轴移动射击游戏，更是自由之颂，让玩家操作资金不足但拥有压倒性火力的准军事组织，专门使出不必要的多余火力。",
+    "release_date": "2015 年 10 月 15 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "289070": {
+    "name": "Sid Meier's Civilization VI (文明6)",
+    "genres": [
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "局域网多人",
+      "跨平台多人",
+      "Steam 创意工坊"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Strategy",
+      "Historical",
+      "Turn-Based",
+      "Multiplayer",
+      "4X",
+      "Singleplayer"
+    ]
+  },
+  "290510": {
+    "name": "Fallout Shelter (辐射：避难所)",
+    "genres": [
+      "免费开玩",
+      "角色扮演",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就"
+    ],
+    "tags": [
+      "Free to Play",
+      "Post-apocalyptic",
+      "Management",
+      "Building",
+      "Survival",
+      "Simulation",
+      "RPG"
+    ]
+  },
+  "292120": {
+    "name": "App 292120",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [
+      "JRPG",
+      "RPG",
+      "Female Protagonist",
+      "Linear",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Fantasy",
+      "Story Rich",
+      "Adventure",
+      "Cinematic",
+      "Sci-fi",
+      "Action",
+      "Third Person",
+      "Atmospheric",
+      "Turn-Based Combat",
+      "Action RPG",
+      "Futuristic",
+      "Turn-Based",
+      "Strategy",
+      "Difficult"
+    ],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292120/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 13454,
+    "negative": 4476
+  },
+  "292140": {
+    "name": "App 292140",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [
+      "JRPG",
+      "RPG",
+      "Fantasy",
+      "Female Protagonist",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Story Rich",
+      "Time Travel",
+      "Adventure",
+      "Anime",
+      "Sci-fi",
+      "Action",
+      "Third Person",
+      "Open World",
+      "Cinematic",
+      "Action RPG",
+      "Turn-Based",
+      "Atmospheric",
+      "Linear",
+      "Turn-Based Combat"
+    ],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292140/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 3378,
+    "negative": 2370
+  },
+  "294100": {
+    "name": "RimWorld (边缘世界)",
+    "genres": [
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 创意工坊",
+      "Steam 成就"
+    ],
+    "tags": [
+      "Colony Sim",
+      "Base Building",
+      "Survival",
+      "Management",
+      "Sandbox",
+      "Strategy",
+      "Sci-fi",
+      "Simulation"
+    ]
+  },
+  "304430": {
+    "name": "INSIDE",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "可选颜色",
+      "可以仅用键盘",
+      "无需应对快速反应事件",
+      "立体声",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/header.jpg?t=1761819581",
+    "short_description": "孤身一人并遭到追击，一个男孩发现自己深深陷入了一个黑暗计划。",
+    "release_date": "2016 年 7 月 7 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "304930": {
+    "name": "Unturned",
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "免费开玩",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "在线玩家对战",
+      "在线合作",
+      "Steam 创意工坊"
+    ],
+    "tags": [
+      "Free to Play",
+      "Survival",
+      "Zombies",
+      "Multiplayer",
+      "Open World",
+      "Crafting",
+      "Shooter"
+    ]
+  },
+  "311560": {
+    "name": "Assassin’s Creed® Rogue",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "自定义音量控制",
+      "可调整难度",
+      "可以仅用鼠标",
+      "随时保存",
+      "立体声",
+      "环绕声",
+      "部分支持控制器"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/header.jpg?t=1751968973",
+    "short_description": "18世纪，法印之战带给了美洲大陆无尽的动荡与混乱。此间，谢伊·派崔克·寇马,一个年轻无畏的刺客兄弟会成员，他一步步向黑暗转变的过程确是在逐渐塑造着美洲殖民地的未来。在目睹了一个危险任务导致的悲剧后，谢伊叛逃出了兄弟会并遭到刺客们的追杀。被曾经所谓的兄弟所抛弃的谢伊决心干掉所有背叛和阻碍他的人，最终他成为了历史上最令人恐惧的刺客猎人。",
+    "release_date": "2015 年 3 月 9 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "311690": {
+    "name": "挺进地牢",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311690/e86bb031048093d21e8bdbd842768457ea192051/header_schinese.jpg?t=1779733990",
+    "short_description": "“挺进地牢”是一款弹幕射击游戏，地牢探险者跟随一群生活颇为悲情且背负痛苦回忆的 同伴，设法通过射击、劫掠、翻滚躲闪等获得传说中地牢的终极宝藏：一把可以“抹去过 去”的枪，从而翻转他们的命运，拯救悲情人生。",
+    "release_date": "2016 年 4 月 5 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "312520": {
+    "name": "雨世界",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "同屏/分屏玩家对战",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 创意工坊",
+      "自定义音量控制",
+      "可调整难度",
+      "可以仅用键盘",
+      "立体声",
+      "Steam 云",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/header_schinese.jpg?t=1792010382",
+    "short_description": "你是一只流浪的蛞蝓猫，在破碎的生态系统中你既是捕食者又是猎物。拿起你的长矛，勇敢地穿越工业废墟，猎取足够的食物来生存，但要小心——其他更大的生物也有同样的计划……而且蛞蝓猫看起来很美味。",
+    "release_date": "2017 年 3 月 28 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "319630": {
+    "name": "Life is Strange - Episode 1",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "自定义音量控制",
+      "立体声",
+      "字幕选项",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg?t=1772725755",
+    "short_description": "Episode 1 now FREE! Life is Strange is an award-winning and critically acclaimed episodic adventure game that allows the player to rewind time and affect the past, present and future.",
+    "release_date": "2015 年 1 月 29 日",
+    "is_free": true,
+    "positive": 0,
+    "negative": 0
+  },
+  "322330": {
+    "name": "饥荒联机版",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "局域网玩家对战",
+      "合作",
+      "在线合作",
+      "局域网合作",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 创意工坊",
+      "应用内购买",
+      "可调整文字大小",
+      "视角舒适度",
+      "可选颜色",
+      "自定义音量控制",
+      "可调整难度",
+      "可以仅用键盘",
+      "可以仅用鼠标",
+      "无需应对快速反应事件",
+      "随时保存",
+      "立体声",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/2fe09bd869fcbc21227dcda9999a3c5ea4cb38fc/header_alt_assets_51_schinese.jpg?t=1793044716",
+    "short_description": "在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。",
+    "release_date": "2016 年 4 月 21 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "322331": {
+    "name": "App 322331",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/322331/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "345350": {
+    "name": "App 345350",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [
+      "RPG",
+      "JRPG",
+      "Female Protagonist",
+      "Fantasy",
+      "Open World",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Story Rich",
+      "Adventure",
+      "Anime",
+      "Action",
+      "Action RPG",
+      "Third Person",
+      "Character Customization",
+      "Hack and Slash",
+      "Atmospheric",
+      "Cute",
+      "Exploration",
+      "Nudity",
+      "Time Management"
+    ],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/345350/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 3508,
+    "negative": 919
+  },
+  "346790": {
+    "name": "App 346790",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/346790/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "365670": {
+    "name": "Blender",
+    "genres": [
+      "动画与建模",
+      "设计与插画",
+      "视频制作"
+    ],
+    "categories": [
+      "Steam 创意工坊"
+    ],
+    "tags": [
+      "Free to Play",
+      "Animation & Modeling",
+      "Design & Illustration",
+      "Software",
+      "3D"
+    ]
+  },
+  "367520": {
+    "name": "Hollow Knight (空洞骑士)",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Metroidvania",
+      "Souls-like",
+      "Difficult",
+      "2D",
+      "Platformer",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Indie"
+    ]
+  },
+  "381210": {
+    "name": "Dead by Daylight (黎明杀机)",
+    "genres": [
+      "动作"
+    ],
+    "categories": [
+      "多人",
+      "在线玩家对战",
+      "在线合作",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Horror",
+      "Survival Horror",
+      "Multiplayer",
+      "Multiplayer Asymmetric",
+      "Online Co-Op",
+      "Stealth",
+      "Action"
+    ]
+  },
+  "386940": {
+    "name": "超级鸡马",
+    "type": "game",
+    "genres": [
+      "动作",
+      "休闲",
+      "独立"
+    ],
+    "categories": [
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "同屏/分屏玩家对战",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "跨平台多人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 云",
+      "包含关卡编辑器",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/header.jpg?t=1765298731",
+    "short_description": "Ultimate Chicken Horse 是一款由玩家自行创作关卡的互动游戏，在想方设法妨碍对手到达终点的同时，也不要栽在自己设下的陷阱和障碍面前。",
+    "release_date": "2016 年 3 月 4 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "390290": {
+    "name": "Bulb Boy",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390290/header.jpg?t=1762291079",
+    "short_description": "One gloomy night, Bulb Boy wakes suddenly from a frightening nightmare to discover that evil has overshadowed the Bulbhouse. His family has disappeared and there are horrid monsters lurking in the shadows. Gather the courage and use his glass head to save everything he loves.",
+    "release_date": "2015 年 10 月 29 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "391220": {
+    "name": "Rise of the Tomb Raider™",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "定位控制器支持",
+      "已支持 VR",
+      "Steam 集换式卡牌",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "Steam 云",
+      "Steam 排行榜",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
+    "short_description": "《古墓丽影：崛起》20 周年纪念版包括基础游戏和以全新内容为特色的季票。您可以在全新的“血缘”故事中探索克劳馥庄园，并在“劳拉的梦魇”中保护其免受僵尸入侵。",
+    "release_date": "2016 年 2 月 9 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "391540": {
+    "name": "Undertale",
+    "type": "game",
+    "genres": [
+      "独立",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "Steam 集换式卡牌",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg?t=1757349115",
+    "short_description": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
+    "release_date": "2015 年 9 月 15 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "412830": {
+    "name": "STEINS;GATE",
+    "type": "game",
+    "genres": [
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "DUALSHOCK 控制器支持",
+      "部分支持控制器",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412830/header_schinese.jpg?t=1715703398",
+    "short_description": "由5pb.和nitroplus共同开发的《STEINS;GATE》曾被Famitsu杂志授予年度优秀游戏奖项，并在Famitsu读者调查中被评为最煽情的“催泪游戏”。如此扣人心弦的视觉小说游戏，现已被改编为漫画、动画及剧场版等。 如今终于登陆Steam！",
+    "release_date": "2016 年 9 月 8 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "413150": {
+    "name": "Stardew Valley (星露谷物语)",
+    "genres": [
+      "独立",
+      "角色扮演",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Farming Sim",
+      "Pixel Graphics",
+      "Life Sim",
+      "Multiplayer",
+      "RPG",
+      "Relaxing",
+      "Crafting",
+      "Cozy"
+    ]
+  },
+  "414700": {
+    "name": "Outlast 2",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414700/header.jpg?t=1618944453",
+    "short_description": "Outlast 2 introduces you to Sullivan Knoth and his followers, who left our wicked world behind to give birth to Temple Gate, a town, deep in the wilderness and hidden from civilization. Knoth and his flock are preparing for the tribulations of the end of times and you’re right in the thick of it.",
+    "release_date": "2017 年 4 月 24 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "427520": {
+    "name": "Factorio (异星工厂)",
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "在线合作",
+      "局域网合作"
+    ],
+    "tags": [
+      "Automation",
+      "Base Building",
+      "Resource Management",
+      "Engineering",
+      "Strategy",
+      "Management",
+      "Multiplayer"
+    ]
+  },
+  "431960": {
+    "name": "Wallpaper Engine",
+    "genres": [
+      "动画与建模",
+      "设计与插画",
+      "实用工具"
+    ],
+    "categories": [
+      "Steam 创意工坊",
+      "Steam 成就"
+    ],
+    "tags": [
+      "Software",
+      "Animation & Modeling",
+      "Utility",
+      "Design & Illustration",
+      "Anime"
+    ]
+  },
+  "431961": {
+    "name": "App 431961",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/431961/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "433340": {
+    "name": "Slime Rancher",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/header.jpg?t=1758651509",
+    "short_description": "Slime Rancher是一部关于碧翠丝·乐步的传奇故事。这个年轻又有闯劲的牧场主，在离开地球1000光年的”致远牧星”上开始了身为史莱姆牧场主的新生活。怀揣着勇往直前的信念，还有可靠的真空抢，她踏上了新的征途。在这里，她将重建牧场、积累财富，还要突破隐藏在Q弹史莱姆后的重重冒险。",
+    "release_date": "2017 年 8 月 1 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "442070": {
+    "name": "Drawful 2",
+    "type": "game",
+    "genres": [
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "categories": [
+      "多人",
+      "玩家对战",
+      "同屏/分屏玩家对战",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442070/header.jpg?t=1728584390",
+    "short_description": "For 3-8 players and an audience of thousands! Your phones or tablets are your controllers! The game of terrible drawings and hilariously wrong answers.",
+    "release_date": "2016 年 6 月 20 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "457140": {
+    "name": "缺氧",
+    "type": "game",
+    "genres": [
+      "独立",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "Steam 集换式卡牌",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/header_schinese.jpg?t=1790785089",
+    "short_description": "《缺氧》 是一款太空殖民模拟游戏。 在外太空岩深处，你手下的勤劳开拓者们需要熟练掌握科技，战胜新的陌生生命形式，以及利用难以置信的太空技术来生存。甚至，还有可能繁荣起来。",
+    "release_date": "2019 年 7 月 30 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "460790": {
+    "name": "Bayonetta",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460790/header.jpg?t=1763677459",
+    "short_description": "PlatinumGames 向全宇宙欢呼，他们的动作游戏扛鼎之作终于驾临 PC。在解锁的 HD 分辨率和 60fps 的速率下，感受超越顶级超热动作游戏。终极游戏模式：变坏的感觉真好。",
+    "release_date": "2017 年 4 月 11 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "461040": {
+    "name": "PICO PARK:Classic Edition",
+    "type": "game",
+    "genres": [
+      "动作",
+      "休闲",
+      "独立"
+    ],
+    "categories": [
+      "多人",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "DUALSHOCK 控制器支持",
+      "Steam 输入 API 支持",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461040/6f1570451e61751e3995d42fa7d7f31f90756db0/header.jpg?t=1781624101",
+    "short_description": "PICO PARK:Classic Edition is a cooperative local/online multiplay action puzzle game for 2-10 players.",
+    "release_date": "2016 年 4 月 27 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "470950": {
+    "name": "App 470950",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/470950/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "477160": {
+    "name": "人类一败涂地 / Human Fall Flat",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 创意工坊",
+      "可选颜色",
+      "自定义音量控制",
+      "可以仅用键盘",
+      "无需应对快速反应事件",
+      "立体声",
+      "环绕声",
+      "Steam 云",
+      "统计数据",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/72ebb13093999896293a91a0ad3f9ce2501f1818/header_alt_assets_27_schinese.jpg?t=1793018738",
+    "short_description": "《人类一败涂地》是一款轻松搞笑的沙雕游戏，游戏的场景发生在飘渺的梦境之中。玩家既可以单机自闭，也可以最多八人联机一起欢畅。游戏支持的创意工坊，还可以让大家免费玩到不计其数的高质量玩家关卡和皮肤。游戏支持中文。",
+    "release_date": "2016 年 7 月 22 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "489630": {
+    "name": "Warhammer 40,000: Gladius - Relics of War",
+    "type": "game",
+    "genres": [
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "局域网玩家对战",
+      "同屏/分屏玩家对战",
+      "合作",
+      "在线合作",
+      "局域网合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "跨平台多人",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "Steam 创意工坊",
+      "部分支持控制器",
+      "Steam 云",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489630/3222d08a9992bd35d64d51cb308270af3c276428/header.jpg?t=1779382255",
+    "short_description": "战锤40,000: 格雷迪厄斯 – 遗迹之战将带你进入一个惊恐而野蛮的世界。四个种族为了争夺星球上的资源展开了残酷的战斗。在以战锤40,000为背景的首款4X回合制策略游戏中，你将引领自己所属的阵营走向最终的胜利。",
+    "release_date": "2018 年 7 月 12 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "504230": {
+    "name": "Celeste",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg?t=1714089525",
+    "short_description": "《Celeste》是《TowerFall》的制作者推出的又一力作。这款平台游戏节奏极为紧凑，玩家需要在 Madeline 攀登塞莱斯特山 (Celeste Mountain) 的旅程中，帮助她克服内心深处的恐惧。勇敢面对数百个手工打造的挑战场景，揭开诡异的秘密，解开神秘山峰的谜团吧。",
+    "release_date": "2018 年 1 月 25 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "508440": {
+    "name": "Totally Accurate Battle Simulator",
+    "type": "game",
+    "genres": [
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "Steam 成就",
+      "部分支持控制器",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508440/header.jpg?t=1730715415",
+    "short_description": "率领来自古代、亡灵、幻想世界的红蓝搞怪兵种，在这款基于史上最无厘头物理系统创建的游戏中展开激战。",
+    "release_date": "2021 年 4 月 1 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "518790": {
+    "name": "《猎人：荒野的召唤™》",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "模拟",
+      "体育"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "Steam 成就",
+      "完全支持控制器",
+      "应用内购买",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/de78942e84203b532c5bd853d2ee8f6dd493ac01/header_schinese.jpg?t=1791555374",
+    "short_description": "走进一个动态的开放世界，体验原汁原味的狩猎之旅，这里的一切都会因你的一举一动而做出反应。追踪猎物、随机应对突发遭遇，可独自探索或与好友同行，成为真正的狩猎大师。",
+    "release_date": "2017 年 2 月 16 日",
+    "is_free": true,
+    "positive": 0,
+    "negative": 0
+  },
+  "524220": {
+    "name": "NieR:Automata™",
+    "type": "game",
+    "genres": [
+      "动作",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "自定义音量控制",
+      "可调整难度",
+      "#category_playable_at_your_own_pace",
+      "无需应对快速反应事件",
+      "立体声",
+      "部分支持控制器",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg?t=1785182957",
+    "short_description": "NieR: Automata tells the story of androids 2B, 9S and A2 and their battle to reclaim the machine-driven dystopia overrun by powerful machines.",
+    "release_date": "2017 年 3 月 17 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "536220": {
+    "name": "The Walking Dead: A New Frontier",
+    "type": "game",
+    "genres": [
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536220/header.jpg?t=1729702791",
+    "short_description": "但是要为此付出什么代价？在这片新天地，活着的人能被寄予信任吗？",
+    "release_date": "2016 年 12 月 20 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "568220": {
+    "name": "Lobotomy Corporation",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/568220/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "569610": {
+    "name": "Distant Space",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569610/header.jpg?t=1761081429",
+    "short_description": "Distant Space are present the arcade game of cosmic fights in arcade style of the 80's, this is a game where you can control the spaceship and forced to destroy extraterrestrials, which are moving in the certain order.",
+    "release_date": "2016 年 12 月 20 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "578080": {
+    "name": "PUBG: BATTLEGROUNDS",
+    "genres": [
+      "动作",
+      "冒险",
+      "大型多人在线",
+      "免费开玩"
+    ],
+    "categories": [
+      "多人",
+      "在线玩家对战",
+      "在线合作",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Survival",
+      "Shooter",
+      "Battle Royale",
+      "Multiplayer",
+      "FPS",
+      "PvP",
+      "Action"
+    ]
+  },
+  "578081": {
+    "name": "App 578081",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/578081/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "578082": {
+    "name": "App 578082",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/578082/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "582010": {
+    "name": "Monster Hunter: World (怪物猎人：世界)",
+    "genres": [
+      "动作"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "在线合作",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Action",
+      "Hunting",
+      "Multiplayer",
+      "RPG",
+      "Online Co-Op",
+      "Action RPG",
+      "Third Person",
+      "Difficult"
+    ]
+  },
+  "622590": {
+    "name": "App 622590",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/622590/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "624820": {
+    "name": "App 624820",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/624820/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "624822": {
+    "name": "App 624822",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/624822/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "632360": {
+    "name": "雨中冒险 2",
+    "type": "game",
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "可调整文字大小",
+      "视角舒适度",
+      "自定义音量控制",
+      "可调整难度",
+      "立体声",
+      "环绕声",
+      "Steam 云",
+      "Steam 排行榜",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg?t=1791475448",
+    "short_description": "浴血奋战杀出暴戾的怪物重围，在混乱的外星球上逃过劫难。可孤军奋战，也可与好友并肩作战。 以出人意料的方式合成战利品，同时精通每个角色，直至您自己成为初次迫降时曾颇为惧怕的恐怖威胁。",
+    "release_date": "2020 年 8 月 11 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "645630": {
+    "name": "Car Mechanic Simulator 2018",
+    "type": "game",
+    "genres": [
+      "竞速",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "Steam 创意工坊",
+      "部分支持控制器",
+      "Steam 云",
+      "统计数据",
+      "包含关卡编辑器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/645630/header.jpg?t=1793732263",
+    "short_description": "在Car Mechanic Simulator 2018中玩家可以修理并喷涂汽车、轮毂、驾驶汽车。 游戏囊括了大量车型，无论是经典之作，还是独特的车款。你甚至可以在车辆编辑器中自己制作车辆模组。 在此款制作精良细节到位的模拟游戏中，你要做的就是扩大汽车修理业务的规模。游戏中车辆细节的制作令人叹为观止。",
+    "release_date": "2017 年 7 月 28 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "646570": {
+    "name": "Slay the Spire",
+    "type": "game",
+    "genres": [
+      "独立",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 创意工坊",
+      "可调整文字大小",
+      "自定义音量控制",
+      "可以仅用鼠标",
+      "无需应对快速反应事件",
+      "随时保存",
+      "可以仅用触控",
+      "Steam 云",
+      "统计数据",
+      "Steam 排行榜",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg?t=1774015376",
+    "short_description": "我们将卡牌游戏与Roguelike游戏融为一体，制作出了这款最棒的单机组牌游戏。打造出独一无二的牌组、遇见无数离奇的生物、发现威力强大的遗物、去屠戮这座高塔吧！",
+    "release_date": "2019 年 1 月 23 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "673750": {
+    "name": "超级兔子人",
+    "type": "game",
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "同屏/分屏玩家对战",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "完全支持控制器",
+      "推荐使用手柄",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673750/header.jpg?t=1764709681",
+    "short_description": "这是一款基于物理引擎的平台合作游戏，穿着兔子玩偶服！与一或三名朋友（本地或在线）组队来完成关卡，寻找隐藏的或萝卜并精进通关速度。感受兔子的疯狂，拥抱萝卜的混乱，成为超级兔子人吧！",
+    "release_date": "2023 年 5 月 16 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "703080": {
+    "name": "动物园之星",
+    "type": "game",
+    "genres": [
+      "休闲",
+      "模拟",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "Steam 创意工坊",
+      "Steam 云",
+      "可用 HDR",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/header.jpg?t=1765896213",
+    "short_description": "在《动物园之星》中打造一个野生动物世界。由《过山车之星》(Planet Coaster) 和《动物园大亨》(Zoo Tycoon) 的开发者团队制作，将为你带来极致的动物园模拟游戏体验。建造精细的动物栖息地、管理动物园，并见识栩栩如生、能够思考且富有感情的动物探索你打造的世界。",
+    "release_date": "2019 年 11 月 5 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "704850": {
+    "name": "Thief Simulator",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "部分支持控制器",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704850/header.jpg?t=1793732212",
+    "short_description": "成为最厉害的窃贼。收集情报，偷东西，再把东西卖了买高科技装备。做一切真的贼能做的事。",
+    "release_date": "2018 年 11 月 9 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "714010": {
+    "name": "Aimlabs",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "模拟",
+      "免费开玩"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "合作",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 创意工坊",
+      "应用内购买",
+      "Steam 云",
+      "统计数据",
+      "Steam 排行榜",
+      "包含关卡编辑器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/714010/d5e9221e92990e5736994f070ffcd7c4e3af9345/header.jpg?t=1791001714",
+    "short_description": "Aimlabs是超过5,000万玩家信赖的首选练枪工具，从刚接触FPS的新手到职业电竞选手都在使用。基于科学研究的瞄准分析能够找出你的薄弱项，帮助你提升各类FPS 游戏所需的核心技巧。通过海量训练场景完成热身，在实战中稳步上分！",
+    "release_date": "2023 年 6 月 16 日",
+    "is_free": true,
+    "positive": 0,
+    "negative": 0
+  },
+  "714011": {
+    "name": "App 714011",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/714011/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "728880": {
+    "name": "Overcooked! 2",
+    "type": "game",
+    "genres": [
+      "动作",
+      "休闲",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "同屏/分屏玩家对战",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/3ebab1a37d85815dd61b2193adf6232e13446217/header_schinese.jpg?t=1789548883",
+    "short_description": "Overcooked 回来了，带着全新的烹饪行动！重返洋葱王国，通过经典的本地合作模式或是在线游戏模式组建多达四人的大厨团队。系好你的围裙……是时候（再一次）拯救这个世界了！",
+    "release_date": "2018 年 8 月 7 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "739630": {
+    "name": "Phasmophobia 恐鬼症",
+    "type": "game",
+    "genres": [
+      "动作",
+      "独立",
+      "抢先体验"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "Steam 成就",
+      "完全支持控制器",
+      "定位控制器支持",
+      "已支持 VR",
+      "Steam 集换式卡牌",
+      "视角舒适度",
+      "可调整难度",
+      "无需应对快速反应事件",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "立体声",
+      "环绕声",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1793615120",
+    "short_description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+    "release_date": "2020 年 9 月 18 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "750920": {
+    "name": "Shadow of the Tomb Raider: Definitive Edition",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/86f9744a410121ff869cc19f63aa9e3dfcf54b8d/header_alt_assets_0.jpg?t=1792675045",
+    "short_description": "劳拉·克劳馥一路狂奔，拯救世界免遭玛雅预言中的天灾摧毁，她终将迎接命运，成长为命中注定的古墓侠盗。",
+    "release_date": "2018 年 9 月 14 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "753640": {
+    "name": "Outer Wilds",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "可调整文字大小",
+      "视角舒适度",
+      "可选颜色",
+      "自定义音量控制",
+      "推荐使用手柄",
+      "可以仅用键盘",
+      "无需应对快速反应事件",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "立体声",
+      "环绕声",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341",
+    "short_description": "Outer Wilds再添一项大奖，被Giant Bomb、Polygon、Eurogamer和The Guardian评为“2019年度游戏”！备受赞誉、屡获大奖的Outer Wilds是一款开放世界冒险类游戏，游戏背景是一个困在无尽的时间循环之中的太阳系。",
+    "release_date": "2020 年 6 月 18 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "757910": {
+    "name": "Away",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "支持字幕",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757910/7a460e6428f11588dd4f37d37529b085399cc3ff/header.jpg?t=1787849524",
+    "short_description": "Away 是一款短篇游戏，讲述主角临死前的经历，以阴郁的黑白风格呈现。",
+    "release_date": "2018 年 10 月 31 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "774171": {
+    "name": "Muse Dash",
+    "type": "game",
+    "genres": [
+      "动作",
+      "休闲",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "部分支持控制器",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774171/header.jpg?t=1793183311",
+    "short_description": "狂拽跑酷和传统音游结合的世界 ★★★ —— 《 Muse Dash 》!!",
+    "release_date": "2019 年 6 月 19 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "785890": {
+    "name": "Hexologic",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "787480": {
+    "name": "Phoenix Wright: Ace Attorney Trilogy",
+    "type": "game",
+    "genres": [
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "视角舒适度",
+      "自定义音量控制",
+      "可以仅用键盘",
+      "可以仅用鼠标",
+      "无需应对快速反应事件",
+      "随时保存",
+      "立体声",
+      "可以仅用触控",
+      "部分支持控制器",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/header.jpg?t=1768866317",
+    "short_description": "本作是以法庭为舞台的冒险游戏。玩家将扮演律师「成步堂龙一」，为证明委託人的清白而踏上法庭。此精选集收录了作为系列原点的《逆转裁判 復甦的逆转》、《逆转裁判2》和《逆转裁判3》共14话。 ※简繁中文字幕将于发售后以更新包形式追加。",
+    "release_date": "2019 年 4 月 9 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "813000": {
+    "name": "App 813000",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/813000/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "814380": {
+    "name": "Sekiro: Shadows Die Twice (只狼：影逝二度)",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Souls-like",
+      "Difficult",
+      "Action",
+      "Ninja",
+      "Atmospheric",
+      "Swordplay",
+      "Singleplayer",
+      "Third Person"
+    ]
+  },
+  "837470": {
+    "name": "Untitled Goose Game",
+    "type": "game",
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/header.jpg?t=1699052664",
+    "short_description": "今天村里天气真不错，而你是一只可怕的鹅。",
+    "release_date": "2020 年 9 月 23 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "858710": {
+    "name": "重力回路",
+    "type": "game",
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "推荐使用手柄",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858710/header.jpg?t=1780932500",
+    "short_description": "《重力回路》是一款极具经典街机精神的酷炫动作2D平台游戏。 凯是一位孤胆战斗英雄，运用重力回路的神秘力量进行战斗，扮演他，在这个居住着灵智机器人的后启示录世界进行冒险。踏上从神秘的病毒大军手中拯救地球的征程。",
+    "release_date": "2023 年 7 月 13 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "860510": {
+    "name": "小小梦魇2",
+    "type": "game",
+    "genres": [
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860510/header.jpg?t=1730127763",
+    "short_description": "在《小小梦魇2》的悬疑冒险旅途中，您将化身为小男孩摩诺，身处在电波笼罩之下，因此变得扭曲的世界里。 与新结交的朋友小六携手合作，揭发讯号塔暗藏的秘密。",
+    "release_date": "2021 年 2 月 10 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "866800": {
+    "name": "The Walking Dead: The Final Season",
+    "type": "game",
+    "genres": [
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/866800/header.jpg?t=1729703141",
+    "short_description": "一间与世隔绝的学校或许终于能让克蕾敏汀安家，但是保护家园势必有所牺牲。",
+    "release_date": "2018 年 8 月 13 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "891040": {
+    "name": "台球2D - Poolians",
+    "type": "game",
+    "genres": [
+      "休闲",
+      "独立",
+      "大型多人在线",
+      "模拟",
+      "体育",
+      "免费开玩"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "Steam 成就",
+      "应用内购买",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/891040/header.jpg?t=1772606378",
+    "short_description": "Pool 2D - Poolians是一款免费的台球游戏，包括8球，9球，15球，3球，旋转制和二十一点。 图形非常壮观，物理效果真实且准确。 无论您是与计算机对战还是在线上与世界各地的真实玩家对战，都可以顺畅快速地进行！",
+    "release_date": "2019 年 12 月 10 日",
+    "is_free": true,
+    "positive": 0,
+    "negative": 0
+  },
+  "893180": {
+    "name": "Catherine Classic",
+    "type": "game",
+    "genres": [
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "同屏/分屏玩家对战",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "Steam 排行榜",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/893180/header.jpg?t=1763531355",
+    "short_description": "《Catherine》：一个关于爱情、背叛和承诺的恐怖故事。这款探讨成人话题的动作冒险益智游戏，不同于《Persona》系列制作者推出的其他任何作品；它现已专为PC进行过增强处理，并保留了其全部的经典特色。爱，结束了吗？要么登上顶峰，要么坠落而亡。",
+    "release_date": "2019 年 1 月 10 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "914010": {
+    "name": "火车站改造王",
+    "type": "game",
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914010/header.jpg?t=1781086180",
+    "short_description": "请尝试用自己的双手翻新废弃的车站和旧火车。恢复其以前的荣耀，并让它们再次被投入使用。",
+    "release_date": "2020 年 10 月 1 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "928840": {
+    "name": "Cybarian: The Time Travelling Warrior",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/928840/header.jpg?t=1789120712",
+    "short_description": "Cybarian The Time Travelling Warrior is a classically inspired arcade action game, with a mixture of modern and retro gaming tropes.",
+    "release_date": "2018 年 11 月 9 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "939400": {
+    "name": "The Falconeer",
+    "genres": [
+      "动作",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Flight",
+      "Action",
+      "RPG",
+      "Indie",
+      "Atmospheric",
+      "Open World"
+    ]
+  },
+  "942970": {
+    "name": "疑案追声",
+    "type": "game",
+    "genres": [
+      "独立",
+      "角色扮演",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/942970/header_schinese.jpg?t=1728551840",
+    "short_description": "如果有一种技术，能够收集来自案发现场的声音，那就可以轻易找出幕后黑手，解开神秘悬案。但是，用声音来推理，远比想象中要困难。为此，我们在为系统寻找合适的使用者——“声探”！请你回到案发现场，利用声音跟踪每个人的行动，告诉我们，在这些看似毫不相关的案件下，是否还隐藏着一个终极秘密。",
+    "release_date": "2019 年 3 月 28 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "945360": {
+    "name": "Among Us (太空狼人杀)",
+    "genres": [
+      "休闲"
+    ],
+    "categories": [
+      "多人",
+      "在线玩家对战",
+      "在线合作",
+      "跨平台多人",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Social Deduction",
+      "Survival",
+      "Space",
+      "Casual",
+      "Party Game",
+      "Co-op"
+    ]
+  },
+  "960090": {
+    "name": "Bloons TD 6",
+    "type": "game",
+    "genres": [
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "Steam 成就",
+      "应用内购买",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960090/header.jpg?t=1782123772",
+    "short_description": "精彩纷呈的塔防游戏",
+    "release_date": "2018 年 12 月 17 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "967050": {
+    "name": "Pacify",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "跨平台多人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 云",
+      "Steam 排行榜",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/967050/24d904ac2a44db150c4155b5a04901c5b01750d8/header.jpg?t=1777775410",
+    "short_description": "一款在线合作恐怖游戏，玩家需为“PAH Inc.”平息、削弱并捕获超自然生物。每个关卡都有不同的剧情、独特的怪物以及多种结局。支持单人游玩，也可与最多6位好友组队。游戏包含带有趣味音效的近距离语音聊天功能。",
+    "release_date": "2019 年 2 月 22 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "990080": {
+    "name": "霍格沃茨之遗",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "应用内购买",
+      "可调整文字大小",
+      "视角舒适度",
+      "自定义音量控制",
+      "朗读游戏菜单",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "随时保存",
+      "立体声",
+      "环绕声",
+      "Steam 云",
+      "可用 HDR",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992",
+    "short_description": "《霍格沃茨之遗》是一款沉浸式开放世界动作角色扮演游戏。这回，你将在魔法世界中扮演“你自己”，亲手书写属于自己的传奇。",
+    "release_date": "2023 年 2 月 10 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "990082": {
+    "name": "App 990082",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/990082/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1030300": {
+    "name": "Hollow Knight: Silksong",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "视角舒适度",
+      "推荐使用手柄",
+      "可以仅用键盘",
+      "无需应对快速反应事件",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "随时保存",
+      "立体声",
+      "Steam 云",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1776125736",
+    "short_description": "探索《空洞骑士：丝之歌》中庞大的诅咒王国！在这个由丝线与歌声统治的地下世界中，攀登顶峰的旅途，亦是探索、战斗与生存的考验。",
+    "release_date": "2025 年 9 月 4 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1057090": {
+    "name": "Ori and the Will of the Wisps",
+    "type": "game",
+    "genres": [
+      "动作"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "在电视上远程畅玩",
+      "可用 HDR",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
+    "short_description": "在充满异域风情的广大世界中开启全新旅程，征服强大的敌人，解开极具挑战性的难题，在一次次任务中，揭开奥里的命运。",
+    "release_date": "2020 年 3 月 10 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1086940": {
+    "name": "Baldur's Gate 3 (博德之门3)",
+    "genres": [
+      "冒险",
+      "角色扮演",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "CRPG",
+      "Choices Matter",
+      "Turn-Based Combat",
+      "RPG",
+      "Dungeons & Dragons",
+      "Story Rich",
+      "Fantasy"
+    ]
+  },
+  "1091500": {
+    "name": "Cyberpunk 2077 (赛博朋克 2077)",
+    "genres": [
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Cyberpunk",
+      "Open World",
+      "RPG",
+      "Sci-fi",
+      "Story Rich",
+      "Futuristic",
+      "Action RPG",
+      "FPS"
+    ]
+  },
+  "1092790": {
+    "name": "邪恶冥刻",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "独立",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg?t=1777572925",
+    "short_description": "《邪恶冥刻Inscryption》是一部墨黑色卡片主题的冒险史诗，融合了Roguelike牌组构建、密室逃脱以及心理恐怖元素，为玩家献上一杯血腥的冰沙奶昔。比玩法更黑暗的，是卡牌上冥刻的内容……",
+    "release_date": "2021 年 10 月 19 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1092840": {
+    "name": "Celeste Original Soundtrack",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1092840/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1114940": {
+    "name": "Outer Wilds (星际拓荒)",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Exploration",
+      "Space",
+      "Story Rich",
+      "Mystery",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Adventure"
+    ]
+  },
+  "1134700": {
+    "name": "荒野之地2: 新大陆 / Wild Terra 2: New Lands",
+    "type": "game",
+    "genres": [
+      "动作",
+      "独立",
+      "大型多人在线",
+      "角色扮演"
+    ],
+    "categories": [
+      "多人",
+      "大型多人在线",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "应用内购买",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134700/header.jpg?t=1793623567",
+    "short_description": "在玩家控制的充满生机的中世纪世界中扮演您的角色。MMORPG充满了细节，创造了独特的沉浸感和冒险精神！",
+    "release_date": "2022 年 11 月 10 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1144400": {
+    "name": "千恋＊万花",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "休闲"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "部分支持控制器",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144400/header_schinese.jpg?t=1752128014",
+    "short_description": "《千恋＊万花》是日本美少女游戏品牌Yuzusoft（柚子社）2016年制作的一款和风恋爱题材作品。本作发售后展现出了势如破竹的高人气，并获得萌系游戏大赏的年度准大奖以及Getchu美少女游戏大赏中获得综合类排名第一的殊荣，在剧本、系统、图像、音乐、影片、角色等多个奖项中也均有斩获。",
+    "release_date": "2020 年 2 月 14 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1145360": {
+    "name": "Hades (黑帝斯)",
+    "genres": [
+      "动作",
+      "独立",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Rogue-like",
+      "Action Roguelike",
+      "Mythology",
+      "Fast-Paced",
+      "Hack and Slash",
+      "Great Soundtrack",
+      "Indie"
+    ]
+  },
+  "1172470": {
+    "name": "Apex Legends",
+    "genres": [
+      "动作",
+      "冒险",
+      "免费开玩"
+    ],
+    "categories": [
+      "多人",
+      "在线玩家对战",
+      "在线合作",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Battle Royale",
+      "FPS",
+      "Multiplayer",
+      "Shooter",
+      "First-Person",
+      "Action",
+      "Free to Play"
+    ]
+  },
+  "1174180": {
+    "name": "Red Dead Redemption 2",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "Steam 成就",
+      "应用内购买",
+      "部分支持控制器",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+    "short_description": "亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。",
+    "release_date": "2019 年 12 月 5 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1178490": {
+    "name": "港诡实录",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "部分支持控制器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1178490/header.jpg?t=1661250615",
+    "short_description": "《港诡实录》是一款以中国香港都市传说为题材的第一人称恐怖冒险游戏。故事讲述一群年轻人为了录制探灵节目“逃出灵界点”，来到九龙城寨遗址，然而这次的录制却因为一些突发事件变得诡异起来……",
+    "release_date": "2020 年 1 月 6 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1180320": {
+    "name": "三国杀",
+    "type": "game",
+    "genres": [
+      "策略",
+      "免费开玩"
+    ],
+    "categories": [
+      "多人",
+      "大型多人在线",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "应用内购买",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180320/755fc1e2930bfe710310b1c3729be56e2b093ff6/header_schinese.jpg?t=1789987026",
+    "short_description": "《三国杀》是一款拥有沉浸体验感的以三国时代为背景的线上卡牌游戏。玩家可扮演三国时期人物，根据随机抽中的隐藏身份（主公、反贼、忠臣、内奸），通过使用独特的人物技能，合理打出各种类型的手牌，运筹帷幄、智取搏杀，获得自己所属身份的胜利！ 《三国杀》将三国历史与桌面游戏结合在一起。以桌面游戏独有的方式向玩家展示了一个个鲜活的三国人物，一段段精彩的三国故事。以身份、势力或阵营等为线索，以卡牌为形式，合纵连横，经过一轮一轮的谋略和动作获得最终的胜利。三国杀集合历史、文学、美术等元素于一身，在中国广受欢迎。",
+    "release_date": "2021 年 12 月 17 日",
+    "is_free": true,
+    "positive": 0,
+    "negative": 0
+  },
+  "1206610": {
+    "name": "橡胶强盗: Rubber Bandits",
+    "type": "game",
+    "genres": [
+      "动作",
+      "休闲",
+      "独立"
+    ],
+    "categories": [
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "同屏/分屏玩家对战",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "Steam 成就",
+      "部分支持控制器",
+      "Steam 云",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206610/header_schinese.jpg?t=1772704226",
+    "short_description": "Rubber Bandits 是一款以犯罪为乐的多人群战游戏，最多支持 4 名玩家。 凭藉 8 个激烈的游戏模式，玩家可以偷窃、群殴以及带着数量最多的脏物冲过终点线来赢得胜利！",
+    "release_date": "2021 年 12 月 2 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1213300": {
+    "name": "叛逆神魂-GODSOUL-🔥",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "策略",
+      "抢先体验"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "Steam 创意工坊",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1213300/header_schinese.jpg?t=1772704250",
+    "short_description": "《叛逆神魂》是个买断制、【轻赛博x魔幻现实】题材，剧情、打牌、恋爱RPG游戏。这一次的青春，不再向现实低头……你将联结执着游戏、绘画等执着兴趣的叛逆少女们，反抗压迫、共度危机与美好。还可抓幻灵美少女、攻略她们（已有40+只），大量动态立绘+CG！🔥让你的DNA燃起来！🔥",
+    "release_date": "2025 年 5 月 1 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1222140": {
+    "name": "底特律：化身为人",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 云",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header_schinese.jpg?t=1667468479",
+    "short_description": "在《底特律：化身为人》中，人类和机器人的命运都将掌握在您的手中，您将走进一个不远的未来，一个机器人具有比人类更高智慧的时代。您将体验到史上最为复杂的分支故事——您所作出的每个选择都将影响游戏的结局。",
+    "release_date": "2020 年 6 月 18 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1230140": {
+    "name": "ATRI -My Dear Moments-",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "休闲"
+    ],
+    "categories": [
+      "单人",
+      "Steam 集换式卡牌",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1230140/header.jpg?t=1761759369",
+    "short_description": "「在日渐沉没的世界里，我找到了你。」在不远的未来，海平面原因不明地急速上升，导致了地表多数都沉入海中。在一个逐渐沉入海中的平和小镇，属于少年和机器人少女的难忘夏日就这么开始了——",
+    "release_date": "2020 年 6 月 18 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1230141": {
+    "name": "App 1230141",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1230141/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1238810": {
+    "name": "《战地风云 5》",
+    "type": "game",
+    "genres": [
+      "动作"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "可用 HDR"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg?t=1772707365",
+    "short_description": "这就是终极《战地风云 5》体验。用完整的武器、载具和配备武器库以及第 1 年和第 2 年最棒的自定义内容体验人类历史上规模最大的冲突。",
+    "release_date": "2020 年 10 月 22 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1244460": {
+    "name": "侏罗纪世界：进化 2",
+    "type": "game",
+    "genres": [
+      "模拟",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 云",
+      "统计数据",
+      "可用 HDR",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244460/header_schinese.jpg?t=1750957701",
+    "short_description": "《侏罗纪世界：进化 2》是 Frontier 成就非凡的游戏《侏罗纪世界：进化》的续作，备受玩家期待。作为《侏罗纪世界：进化》游戏系列的全新的冒险纪元，本作以 2018 年极富开创性且充满沉浸感的管理模拟架构为基础进行开发。",
+    "release_date": "2021 年 11 月 9 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1245620": {
+    "name": "Elden Ring (艾尔登法环)",
+    "genres": [
+      "动作",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "在线玩家对战",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Souls-like",
+      "Dark Fantasy",
+      "Open World",
+      "RPG",
+      "Action RPG",
+      "Difficult",
+      "Action"
+    ]
+  },
+  "1274570": {
+    "name": "DEVOUR",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1274570/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1280770": {
+    "name": "Phasmophobia (恐鬼症)",
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "在线合作",
+      "VR 支持"
+    ],
+    "tags": [
+      "Horror",
+      "Online Co-Op",
+      "Multiplayer",
+      "Psychological Horror",
+      "VR",
+      "Investigation",
+      "Survival Horror"
+    ]
+  },
+  "1280930": {
+    "name": "星界战士",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "推荐使用手柄",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 云",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280930/f1a1e98ad37e47d51d4f9ca5ad19465a10ff460d/header_alt_assets_1.jpg?t=1791479357",
+    "short_description": "《星界战士》（原名：星座上升）是一款以现代幻想世界为背景的2D平台rogue-lite游戏。作为4个性格迥异的英雄之一，你必须设法从花园逃离，这个大花园是一座由12个强���且邪恶的boss守护的星界监狱，另称“十二星宫”。",
+    "release_date": "2023 年 11 月 14 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1281930": {
+    "name": "tModLoader",
+    "type": "mod",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演",
+      "免费开玩"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "Steam 创意工坊",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/header.jpg?t=1793819597",
+    "short_description": "挖掘、战斗、建造，用 tModLoader 在玩家制作的模组世界中杀出一条血路——这个 DLC 将泰拉瑞亚模组带进现实！",
+    "release_date": "2020 年 5 月 16 日",
+    "is_free": true,
+    "positive": 0,
+    "negative": 0
+  },
+  "1288310": {
+    "name": "烟火",
+    "type": "game",
+    "genres": [
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 云",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288310/header_schinese.jpg?t=1751067221",
+    "short_description": "《烟火》是一款中国本土题材的恐怖悬疑解谜游戏。故事发生在偏远的山中小镇，一场葬礼上的意外火灾牵扯出一宗已经结案的灭门惨案。新人警察林理洵在机缘巧合下重新调查灭门案，随着调查深入，受害者的过往慢慢浮出水面，案子真相却变得扑朔迷离……",
+    "release_date": "2021 年 2 月 3 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1293830": {
+    "name": "极限竞速：地平线 4",
+    "type": "game",
+    "genres": [
+      "竞速"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "跨平台多人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header_schinese.jpg?t=1734336342",
+    "short_description": "在世界上最盛大的汽车嘉年华上，不断变化的赛季改变着一切。单枪匹马或者与其他人组队，在一个共享开放世界中探索美丽而富有历史气息的英国。收集、改装和驾驶超过 450 辆车辆。尽情竞速、表演特技、创造和探索：选择您专属的方式来成为地平线中的超级巨星。",
+    "release_date": "2021 年 3 月 9 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1293831": {
+    "name": "App 1293831",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293831/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1304930": {
+    "name": "The Outlast Trials",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1304930/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1326470": {
+    "name": "Sons Of The Forest",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "Steam 成就",
+      "完全支持控制器",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+    "short_description": "你被派到了一座孤岛上，寻找一位失踪的亿万富翁，结果却发现自己深陷被食人生物占领的炼狱之地。你需要制作工具和武器、建造房屋，倾尽全力生存下去，无论独自一人还是与朋友一起——一切尽在这款新推出的开放世界恐怖生存模拟游戏中。",
+    "release_date": "2024 年 2 月 22 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1331320": {
+    "name": "App 1331320",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1331320/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1426210": {
+    "name": "双人成行",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "多人",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "立体声",
+      "环绕声",
+      "Steam 云",
+      "远程同乐"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_schinese.jpg?t=1777395376",
+    "short_description": "游玩《双人成行》，踏上生命中最疯狂的旅程。利用好友通行证*邀请一位好友免费游玩，共同体验多种多样的乐趣，享受颠覆性的玩法挑战。",
+    "release_date": "2021 年 3 月 25 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1443091": {
+    "name": "极限竞速：地平线 4 财富岛",
+    "type": "dlc",
+    "genres": [
+      "竞速"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "跨平台多人",
+      "DLC",
+      "完全支持控制器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1443091/header.jpg?t=1719334057",
+    "short_description": "在地平线史上最凶险的扩充套件中寻找您的财富，您将在财富岛上征服严峻地形、雷电暴风雨以及危险公路，寻找隐藏的宝藏。 此加载项需有极限竞速：地平线 4 完整版游戏才能使用（需另购）。",
+    "release_date": "2021 年 3 月 9 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1443092": {
+    "name": "极限竞速：地平线 4 LEGO® Speed Champions",
+    "type": "dlc",
+    "genres": [
+      "竞速"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "DLC",
+      "完全支持控制器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1443092/header.jpg?t=1719334058",
+    "short_description": "地平线嘉年华与 LEGO® 集团共同推出全新奇妙的 LEGO 谷地供您竞速与探险，邀请车手收集自己的积木收藏并建造建筑大师房屋与内含超棒 LEGO Speed Champions 车辆的车库。",
+    "release_date": "2021 年 3 月 9 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1446780": {
+    "name": "MONSTER HUNTER RISE (怪物猎人：崛起)",
+    "genres": [
+      "动作"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "在线合作",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Action",
+      "Hunting",
+      "Online Co-Op",
+      "Multiplayer",
+      "Action RPG",
+      "RPG",
+      "Third Person"
+    ]
+  },
+  "1478500": {
+    "name": "Big Walk",
+    "type": "game",
+    "genres": [
+      "冒险"
+    ],
+    "categories": [
+      "多人",
+      "合作",
+      "在线合作",
+      "跨平台多人",
+      "Steam 成就",
+      "完全支持控制器",
+      "视角舒适度",
+      "可选颜色",
+      "可调整难度",
+      "无需应对快速反应事件",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "随时保存",
+      "立体声",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
+    "short_description": "与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。",
+    "release_date": "2026 年 8 月 4 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1478501": {
+    "name": "App 1478501",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1478501/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1495710": {
+    "name": "Cyberpunk 2077 Bonus Content",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1495710/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1517290": {
+    "name": "《战地风云™ 2042》",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲"
+    ],
+    "categories": [
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "应用内购买",
+      "可选颜色",
+      "自定义音量控制",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "立体声",
+      "环绕声",
+      "可用 HDR"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header_schinese.jpg?t=1777324359",
+    "short_description": "《战地风云™ 2042》是一款第一人称射击游戏，本作将带领玩家重返该系列标志性的全面战争。",
+    "release_date": "2021 年 11 月 19 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1533280": {
+    "name": "Eternal Cave Escape",
+    "type": "game",
+    "genres": [
+      "免费开玩",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533280/header.jpg?t=1628641209",
+    "short_description": "You find yourself stuck in a cave with nothing but your wit... and a pickaxe! As you climb your way out you'll find this is no ordinary cave.",
+    "release_date": "2021 年 8 月 6 日",
+    "is_free": true,
+    "positive": 0,
+    "negative": 0
+  },
+  "1551360": {
+    "name": "Forza Horizon 5 (极限竞速：地平线5)",
+    "genres": [
+      "动作",
+      "冒险",
+      "竞速",
+      "模拟",
+      "体育"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "在线玩家对战",
+      "在线合作",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Racing",
+      "Open World",
+      "Driving",
+      "Multiplayer",
+      "Automobile Sim",
+      "Sports",
+      "Realistic"
+    ]
+  },
+  "1551361": {
+    "name": "App 1551361",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551361/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1562780": {
+    "name": "肉鸡",
+    "type": "game",
+    "genres": [
+      "休闲",
+      "独立",
+      "大型多人在线",
+      "策略"
+    ],
+    "categories": [
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "Steam 成就",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562780/header.jpg?t=1779112767",
+    "short_description": "Broilers is a turn-based game that resembles chess and similar board games, but only externally. The basis of almost all of the mechanics in Broilers, is selection (breeding). Learn how to breed new species and their characteristics in order to win the online challenge.",
+    "release_date": "2022 年 11 月 7 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1568590": {
+    "name": "Goose Goose Duck",
+    "type": "game",
+    "genres": [
+      "休闲",
+      "独立",
+      "大型多人在线",
+      "策略",
+      "免费开玩"
+    ],
+    "categories": [
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "跨平台多人",
+      "Steam 成就",
+      "完全支持控制器",
+      "应用内购买",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568590/header.jpg?t=1778102536",
+    "short_description": "Goose Goose Duck 是一款最多支持16名玩家的社交推理游戏。玩家被分成不同的小组，每个小组都有各自的目标。完成团队的目标即可获胜！",
+    "release_date": "2021 年 10 月 3 日",
+    "is_free": true,
+    "positive": 0,
+    "negative": 0
+  },
+  "1575810": {
+    "name": "Wander Stars",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1575810/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1583850": {
+    "name": "Asleep: Ato 1",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1583850/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1613280": {
+    "name": "Forza Horizon 5: Hot Wheels",
+    "type": "dlc",
+    "genres": [
+      "竞速"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "跨平台多人",
+      "DLC",
+      "完全支持控制器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613280/header.jpg?t=1703992111",
+    "short_description": "各位无畏车手注意啦！是时候把车开上墨西哥的云端，前往充满视觉效果、激动人心的地平线风火轮公园了。您将在这里驾驶 10 辆给力新车于史上最快、最极限的赛道上风驰电掣，还可以设计、建造和分享您自己的风火轮冒险之旅。",
+    "release_date": "2022 年 7 月 19 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1613281": {
+    "name": "Forza Horizon 5 Rally Adventure",
+    "type": "dlc",
+    "genres": [
+      "动作",
+      "冒险",
+      "竞速",
+      "模拟",
+      "体育"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "跨平台多人",
+      "DLC",
+      "完全支持控制器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613281/header.jpg?t=1703992121",
+    "short_description": "FORZA HORIZON 5 RALLY ADVENTURE is included with the Forza Horizon 5 Premium Edition, Expansions Bundle, and Premium Add-Ons Bundle. This add-on requires Forza Horizon 5 (game sold separately).",
+    "release_date": "2023 年 3 月 29 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1623730": {
+    "name": "Palworld (幻兽帕鲁)",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "在线合作",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Open World Survival Craft",
+      "Creature Collector",
+      "Multiplayer",
+      "Crafting",
+      "Open World",
+      "Survival"
+    ]
+  },
+  "1669980": {
+    "name": "火山的女儿",
+    "type": "game",
+    "genres": [
+      "休闲",
+      "独立",
+      "角色扮演",
+      "模拟",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/header_schinese.jpg?t=1793357371",
+    "short_description": "《火山的女儿》是一款多结局养成游戏。妻子逝去后，你就成了她唯一的守护者。你需要悉心安排她的生活，陪伴她成长。在家庭之外，人魔之间的矛盾愈演愈烈，在魔族首领“鸮姬”卷土重来之际，火山国需要更多的光明的力量。女儿将成为一名怎样的女性？火山国的未来又将走向何方？你的每个选择都很重要。",
+    "release_date": "2023 年 4 月 20 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1669981": {
+    "name": "App 1669981",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1669981/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1687950": {
+    "name": "女神异闻录5皇家版",
+    "type": "game",
+    "genres": [
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header_schinese.jpg?t=1783356822",
+    "short_description": "夺取吧，用那个意志。",
+    "release_date": "2022 年 10 月 20 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1868140": {
+    "name": "潜水员戴夫 DAVE THE DIVER",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "休闲",
+      "角色扮演",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/81bdb3bce15d27ca1b4554a642d91096e89be229/header.jpg?t=1791478061",
+    "short_description": "欢迎访问以神秘蓝洞为背景的海洋冒险游戏【潜水员戴夫 DAVE THE DIVER】。 白天在美丽的大海里打鱼，晚上经营寿司店赚钱。 伴随着个性强的同事们的故事展开的海底谜团。神秘又崭新的乐趣正在等着您！",
+    "release_date": "2023 年 6 月 28 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1875580": {
+    "name": "Mina the Hollower",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1875580/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1903340": {
+    "name": "光与影：33号远征队",
+    "type": "game",
+    "genres": [
+      "动作",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "可调整文字大小",
+      "自定义音量控制",
+      "可调整难度",
+      "推荐使用手柄",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "立体声",
+      "字幕选项",
+      "环绕声",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/b3cb63bf5aa3ffd7790310e4361050c368569314/header_schinese.jpg?t=1782830877",
+    "short_description": "率领第33号远征队踏上消灭绘母的征途，竭尽全力夺下她绘就死亡的画刷。置身这款采用即时机制的回合制角色扮演游戏，探索奇妙世界，感受法兰西19世纪末“美好年代”时期的风采，对抗超乎想象的敌人。",
+    "release_date": "2025 年 4 月 24 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1927720": {
+    "name": "Monument Valley",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "可以仅用鼠标",
+      "无需应对快速反应事件",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "随时保存",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1927720/45a4e828b5d2e3bd4068c68bae0a41c745a5e2dc/header.jpg?t=1762967584",
+    "short_description": "与沉默公主艾达一起踏上宽恕之旅，穿越不可能的幻境，解开虚幻的谜题。操纵纪念碑，创造不断延展的路径来探索新的、超现实神秘世界，体验这款发人沉思，让人平静的益智游戏。",
+    "release_date": "2022 年 7 月 12 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1927740": {
+    "name": "Monument Valley 2",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "可以仅用鼠标",
+      "无需应对快速反应事件",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "随时保存",
+      "立体声",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1927740/b92c8beb26541dc75c6aa97d222cffad0765baf5/header.jpg?t=1762967686",
+    "short_description": "在了解“神圣几何”的秘密中，探索梦幻般的路径和令人愉快的谜题。 跟随 Ro，享受她在成为母亲之旅中的感人故事。操纵纪念碑，扩展路径来探索新的、超现实神秘世界，重新发现独立精神。",
+    "release_date": "2022 年 7 月 12 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1943950": {
+    "name": "Escape the Backrooms",
+    "type": "game",
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "Steam 成就",
+      "视角舒适度",
+      "自定义音量控制",
+      "可调整难度",
+      "无需应对快速反应事件",
+      "立体声",
+      "部分支持控制器",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/8feac86b42210aea2b466a130238dde80992b4f9/header_alt_assets_4.jpg?t=1793277465",
+    "short_description": "《逃离后室》是一款支持1至4名玩家联机的恐怖探索游戏。穿越30多个诡异的后室关卡，同时躲避各种异怪和其他危险。尝试逃离，但请谨记：生死难料。",
+    "release_date": "2025 年 10 月 23 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1966720": {
+    "name": "Lethal Company",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "抢先体验"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "自定义音量控制",
+      "立体声",
+      "部分支持控制器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+    "short_description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+    "release_date": "2023 年 10 月 23 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "1969870": {
+    "name": "Apex Legends (Legacy)",
+    "genres": [
+      "动作"
+    ],
+    "categories": [
+      "多人"
+    ],
+    "tags": [
+      "FPS",
+      "Multiplayer",
+      "Shooter"
+    ]
+  },
+  "2001120": {
+    "name": "双影奇境",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "多人",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "跨平台多人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "支持字幕",
+      "视角舒适度",
+      "可选颜色",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "立体声",
+      "环绕声",
+      "Steam 云",
+      "远程同乐",
+      "可用 HDR",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg?t=1763484567",
+    "short_description": "深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。",
+    "release_date": "2025 年 3 月 6 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2009240": {
+    "name": "The Elder Scrolls Online (试玩/工具)",
+    "genres": [
+      "角色扮演",
+      "大型多人在线"
+    ],
+    "categories": [
+      "多人",
+      "大型多人在线"
+    ],
+    "tags": [
+      "MMORPG",
+      "RPG",
+      "Open World",
+      "Fantasy"
+    ]
+  },
+  "2050650": {
+    "name": "Resident Evil 4",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "Steam 云",
+      "可用 HDR",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+    "short_description": "成功逃脱并战胜死亡的快感。 前所未有的生化灾难“浣熊市事件”六年后...... 成为特务的里昂·斯科特·肯尼迪被派去营救被绑架的总统千金。 里昂踏进被“疯狂”支配之地，他的结局会是…… 一场生与死、恐怖与感情瞬间交错的严酷营救剧即将揭开帷幕。 透过直观的操作和最新的画面，以及再构成的故事重生为全新的生存恐怖体验。",
+    "release_date": "2023 年 3 月 23 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2058180": {
+    "name": "审判之眼：死神的遗言 Remastered",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058180/header_schinese.jpg?t=1781263750",
+    "short_description": "由演员、艺人木村拓哉与“人中之龙工作室”强强联手制作，获得了2019年日本游戏大奖年度作品优秀奖的正统悬疑法庭剧动作游戏《审判之眼：死神的遗言》重制版将于Steam平台发售！以现代东京为舞台，讲述全新主人公——八神隆之对抗邪恶犯罪阴谋的故事。【演出】木村拓哉　谷原章介　滝藤賢一　中尾彬【主题曲】[ALEXANDROS]",
+    "release_date": "2022 年 9 月 14 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2060160": {
+    "name": "编程农场",
+    "type": "game",
+    "genres": [
+      "休闲",
+      "独立",
+      "模拟",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "可调整文字大小",
+      "视角舒适度",
+      "自定义音量控制",
+      "无需应对快速反应事件",
+      "随时保存",
+      "立体声",
+      "Steam 云",
+      "Steam 排行榜",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/b0d2bf3d0ccb34fb74324c7082e1daa23c5303ef/header_alt_assets_2_schinese.jpg?t=1793711051",
+    "short_description": "编程并不断优化你的无人机，实现农场自动化。安坐一旁，看它为你打理一切；收集资源，解锁更尖端的科技，成为全世界效率第一的农场主。畅享游戏快乐，同时不断提高解决问题和编写代码的能力。",
+    "release_date": "2025 年 10 月 10 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2071500": {
+    "name": "Islands of Insight",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071500/header.jpg?t=1730308751",
+    "short_description": "真知之岛是一款精彩的共享世界益智游戏，玩家扮演探索者角色，踏上一段探求与发现的惬意旅程。享受闲适自在的游戏时光，畅游令人叹为观止的浮岛群，发现并解决10,000+谜题。",
+    "release_date": "2024 年 2 月 13 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2084940": {
+    "name": "灵异校园",
+    "type": "game",
+    "genres": [
+      "休闲",
+      "独立",
+      "大型多人在线",
+      "免费开玩"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "局域网合作",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084940/header_schinese.jpg?t=1753715536",
+    "short_description": "这是一款支持单人和多人的充满神秘和惊悚气氛的游戏。在午夜的校园里，你将听到令人毛骨悚然的少女哭泣声，而曾经闻名遐迩的第一中学又隐藏着怎样的秘密呢？你需要和你的伙伴们一起探索这个校园，挖掘多年来被尘封的故事真相。但是要小心，这里不仅有神秘的力量，还有随时可能出现的危险。你能否成功地解开谜团，帮助少女完成投胎转世的使命呢？赶快加入这个充满未知和刺激的冒险吧！",
+    "release_date": "2023 年 2 月 16 日",
+    "is_free": true,
+    "positive": 0,
+    "negative": 0
+  },
+  "2161700": {
+    "name": "女神异闻录３ Reload",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "角色扮演",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "自定义音量控制",
+      "可调整难度",
+      "可以仅用键盘",
+      "无需应对快速反应事件",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "立体声",
+      "环绕声",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
+    "short_description": "《女神异闻录３》整装换新，登陆现行最新游戏平台！",
+    "release_date": "2024 年 2 月 1 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2347770": {
+    "name": "App 2347770",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2347770/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2347771": {
+    "name": "App 2347771",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2347771/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2347774": {
+    "name": "App 2347774",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2347774/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2358720": {
+    "name": "Black Myth: Wukong (黑神话：悟空)",
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器"
+    ],
+    "tags": [
+      "Action RPG",
+      "Mythology",
+      "Souls-like",
+      "Action",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Fantasy"
+    ]
+  },
+  "2371090": {
+    "name": "App 2371090",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2371090/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2379780": {
+    "name": "Balatro",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2384580": {
+    "name": "真・三国无双 起源",
+    "type": "game",
+    "genres": [
+      "动作",
+      "角色扮演",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "可选颜色",
+      "自定义音量控制",
+      "可调整难度",
+      "立体声",
+      "环绕声",
+      "Steam 云",
+      "可用 HDR",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2384580/header_schinese.jpg?t=1790733210",
+    "short_description": "如临真实战场，畅享爽快的一骑当千动作！无名英雄闯荡三国乱世的“真・三国无双”系列新作。",
+    "release_date": "2025 年 1 月 16 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2443760": {
+    "name": "Forklift Racer",
+    "type": "game",
+    "genres": [
+      "独立",
+      "竞速",
+      "免费开玩",
+      "抢先体验"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "部分支持控制器",
+      "Steam 云",
+      "统计数据",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2443760/header.jpg?t=1694978773",
+    "short_description": "Forklift Racer is a brand new arcade forklift experience. With realistic handling, and online multiplayer, Forklift Racer offers an experience like no other. Customize your Forklift, play with friends, and race to the finish line!",
+    "release_date": "2023 年 7 月 17 日",
+    "is_free": true,
+    "positive": 0,
+    "negative": 0
+  },
+  "2445690": {
+    "name": "失落城堡2",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "局域网合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "自定义音量控制",
+      "可调整难度",
+      "推荐使用手柄",
+      "可以仅用键盘",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "立体声",
+      "Steam 云",
+      "统计数据",
+      "在电视上远程畅玩",
+      "远程同乐",
+      "可用 HDR",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1793259605",
+    "short_description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
+    "release_date": "2026 年 6 月 10 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2527500": {
+    "name": "米塔 MiSide",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/header_schinese.jpg?t=1792668822",
+    "short_description": "你一定在各种游戏里有喜欢的女孩，如果你真的和她在一起了呢？",
+    "release_date": "2024 年 12 月 10 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2567870": {
+    "name": "Chained Together",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "部分支持控制器",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/ff16ff5057fa8e0a3a2cb9f4665a59a255c831cb/header_alt_assets_1.jpg?t=1793107565",
+    "short_description": "从地狱的深渊，与你的朋友们一起被链锁攀登穿过多样的世界。无论是单打独斗还是合作，努力到达顶峰，并发现那里等待着你的是什么...",
+    "release_date": "2024 年 6 月 19 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2593370": {
+    "name": "饿殍：明末千里行",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "部分支持控制器",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2593370/header_schinese.jpg?t=1785987440",
+    "short_description": "明末旅行题材文字冒险游戏——玩家将扮演一名盗匪，运送四名女孩从华州城至洛阳城，并在途中查明真相、做出选择。 该游戏会涉及“复仇、刺杀、饥荒、拐卖、人食人”等黑暗元素，但期望给人一种正向的情绪和力量。",
+    "release_date": "2024 年 4 月 22 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2597080": {
+    "name": "墨境",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "支持字幕",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/c26009f217e53cecde11f1b8270ef389653f15f6/header_schinese.jpg?t=1792048121",
+    "short_description": "《墨境》是一款水墨风动作Roguelite游戏。在猎杀狐妖的过程中，你发现自己的命运被所谓的“天道”掌控着，只有逃离这个世界，才有可能获得真正的自由。黄粱一梦，猝然而醒：“我虽凡尘微末，也当以剑代笔，纵横天下，快意人生！”",
+    "release_date": "2026 年 5 月 26 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2653790": {
+    "name": "8号出口",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "独立",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "完全支持控制器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2653790/header.jpg?t=1756464433",
+    "short_description": "你陷入进了无限延伸的地下通道。请仔细观察四周，到达“8号出口”吧。",
+    "release_date": "2023 年 11 月 29 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2676230": {
+    "name": "FiveM",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2676230/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2796010": {
+    "name": "小动物餐吧",
+    "type": "game",
+    "genres": [
+      "动作",
+      "休闲",
+      "独立",
+      "模拟",
+      "策略",
+      "免费开玩"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "推荐使用手柄",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "Steam 云",
+      "统计数据",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796010/277aa3e780422b56c3b71d226989e6f5b0c3b7a5/header_schinese.jpg?t=1787646860",
+    "short_description": "在这款支持1-4人联机合作游戏中，你将成为一家小动物餐吧的老板，不仅要满足顾客的饮品需求，还要应对各种动物顾客的突发状况——暴躁的老虎可能掀翻餐桌，害羞的兔子会被吓到逃跑，别担心，你可以在局面失控前采用一些“物理手段”，拿起木板，将闹事的顾客赶出去！",
+    "release_date": "2025 年 3 月 17 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2828500": {
+    "name": "The Jackbox Megapicker",
+    "type": "game",
+    "genres": [
+      "免费开玩",
+      "实用工具"
+    ],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828500/header.jpg?t=1727288083",
+    "short_description": "The Jackbox Megapicker is a game launcher for all of your Jackbox games. This free bit of software will allow you to launch all owned games from one convenient location. This means that you will no longer need to switch between Party Packs to start playing the games you love most.",
+    "release_date": "2024 年 7 月 29 日",
+    "is_free": true,
+    "positive": 0,
+    "negative": 0
+  },
+  "2835570": {
+    "name": "恶魔轮盘",
+    "type": "game",
+    "genres": [
+      "动作",
+      "独立",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "部分支持控制器",
+      "Steam 排行榜",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/header_schinese.jpg?t=1783085442",
+    "short_description": "用 12 号口径霰弹枪玩俄罗斯轮盘。四人进入。一人离开。用你的性命搏一把运气。祝你好运。",
+    "release_date": "2024 年 4 月 4 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2849080": {
+    "name": "王国保卫战 5：联盟",
+    "type": "game",
+    "genres": [
+      "独立",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "部分支持控制器",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2849080/header.jpg?t=1790344232",
+    "short_description": "当一种强大的邪恶浮现时，一个意想不到的联盟正在形成！需要Linirea的最佳战士和不屈不挠的黑暗军团来阻止它。小心！尽管他们可能并肩旅行，命运的变幻莫测之风可能会迅速改变他们的方向。",
+    "release_date": "2024 年 7 月 25 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2868840": {
+    "name": "Soundpad",
+    "genres": [
+      "实用工具"
+    ],
+    "categories": [
+      "Steam 创意工坊"
+    ],
+    "tags": [
+      "Utilities",
+      "Audio Production"
+    ]
+  },
+  "2868841": {
+    "name": "App 2868841",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2868841/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2930120": {
+    "name": "愤怒的孙子们",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2930120/header.jpg?t=1731119029",
+    "short_description": "国产FPS巅疯制作...",
+    "release_date": "2024 年 6 月 6 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "2949470": {
+    "name": "App 2949470",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2949470/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "3036080": {
+    "name": "沙威玛传奇 - Shawarma Legend",
+    "type": "game",
+    "genres": [
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3036080/header_schinese.jpg?t=1729991661",
+    "short_description": "🌯 沙威玛传奇!！真正的沙威玛餐厅模拟!！",
+    "release_date": "2024 年 7 月 19 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "3167020": {
+    "name": "逃离鸭科夫",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "Steam 集换式卡牌",
+      "Steam 创意工坊",
+      "自定义音量控制",
+      "可调整难度",
+      "立体声",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/header_schinese.jpg?t=1788419722",
+    "short_description": "《逃离鸭科夫》是一款鸭子题材PVE俯视角撤离射击游戏。你要在鸭科夫的世界里搜寻物资，建造藏身处，升级装备，从一无所有到做大做强；面对虎视眈眈的敌鸭，想方设法生存下去——或者逃离。",
+    "release_date": "2025 年 10 月 16 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "3240220": {
+    "name": "Grand Theft Auto V 增强版",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "竞速"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "Steam 成就",
+      "应用内购买",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "部分支持控制器",
+      "在手机上远程畅玩",
+      "在平板上远程畅玩"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_schinese.jpg?t=1781187782",
+    "short_description": "体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。",
+    "release_date": "2025 年 3 月 4 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "3241660": {
+    "name": "R.E.P.O.",
+    "type": "game",
+    "genres": [
+      "动作",
+      "抢先体验"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "完全支持控制器",
+      "视角舒适度",
+      "自定义音量控制",
+      "无需应对快速反应事件",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "立体声",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
+    "short_description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+    "release_date": "2025 年 2 月 26 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "3241661": {
+    "name": "App 3241661",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3241661/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "3314340": {
+    "name": "Burgie's cozy kitchen",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3314340/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "3414900": {
+    "name": "形单影只：公路桥梁小区屋顶花园",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "休闲",
+      "独立",
+      "竞速",
+      "角色扮演",
+      "模拟",
+      "体育",
+      "策略"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "完全支持控制器",
+      "推荐使用手柄",
+      "Steam 云",
+      "统计数据",
+      "Steam 排行榜",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3414900/header.jpg?t=1776662102",
+    "short_description": "面对困难的任务，尽力挑战极限。有时需要运气才能获胜。",
+    "release_date": "2025 年 6 月 20 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "3459920": {
+    "name": "Fractious",
+    "type": "game",
+    "genres": [
+      "休闲",
+      "角色扮演"
+    ],
+    "categories": [
+      "单人",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459920/header.jpg?t=1739362857",
+    "short_description": "This game plunges players into a challenging dungeon world where they play as a brave skeleton,",
+    "release_date": "2025 年 2 月 12 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "3478050": {
+    "name": "女王的游戏：盛世天下 媚娘篇",
+    "type": "game",
+    "genres": [
+      "冒险",
+      "休闲",
+      "独立",
+      "角色扮演",
+      "模拟"
+    ],
+    "categories": [
+      "单人",
+      "Steam 成就",
+      "应用内购买",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478050/736c1da0a7a93c2d96c3308d3c393ad154575a77/header_schinese.jpg?t=1783058959",
+    "short_description": "这是一款你做主角，真人互动的宫廷冒险游戏！你的选择，将决定所有人的命运。面对多线分支剧情和超高死亡率的挑战，你能否活下去，走向权力巅峰？《隐形守护者》团队全新力作《女王的游戏：盛世天下》之媚娘篇，诚邀您踏上惊险刺激的东方宫廷权谋之旅。",
+    "release_date": "2025 年 9 月 8 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "3527290": {
+    "name": "PEAK",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "Steam 成就",
+      "完全支持控制器",
+      "Steam 集换式卡牌",
+      "DUALSHOCK 控制器支持",
+      "DUALSHOCK 控制器支持",
+      "DualSense 控制器支持",
+      "DualSense 控制器支持",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
+    "short_description": "《PEAK》是一款需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？",
+    "release_date": "2025 年 6 月 16 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "3635980": {
+    "name": "Wander Stars - Original Soundtrack",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3635980/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "3636770": {
+    "name": "Servant of the Lake",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3636770/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "3844970": {
+    "name": "地精捣蛋团",
+    "type": "game",
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "合作",
+      "在线合作",
+      "无需应对快速反应事件",
+      "立体声",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1787427131",
+    "short_description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+    "release_date": "2026 年 6 月 10 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "4001890": {
+    "name": "How to Fish",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4001890/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "4108000": {
+    "name": "机械狂欢",
+    "type": "game",
+    "genres": [
+      "动作",
+      "独立"
+    ],
+    "categories": [
+      "多人",
+      "合作",
+      "在线合作",
+      "同屏/分屏合作",
+      "同屏/分屏",
+      "Steam 成就",
+      "完全支持控制器",
+      "DUALSHOCK 控制器支持",
+      "远程同乐",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/bf97e80547a68eac1ad2c481c2f64b6e276d5801/header_schinese.jpg?t=1793352925",
+    "short_description": "《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！",
+    "release_date": "2026 年 7 月 30 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "4164310": {
+    "name": "这是谐音梗",
+    "type": "game",
+    "genres": [
+      "休闲",
+      "独立"
+    ],
+    "categories": [
+      "单人",
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "合作",
+      "在线合作",
+      "Steam 成就",
+      "Steam 创意工坊",
+      "Steam 云",
+      "包含关卡编辑器",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164310/94fea888633f0239c5fa8c1644c54253c03cb1d7/header.jpg?t=1787040510",
+    "short_description": "全网观看超 1 亿次！爆笑又上头的谐音梗猜词游戏。根据魔性的提示图片，大开脑洞，猜出那些离谱而不失合理的答案，并收获一条新鲜的烂梗~ 支持单人/多人游玩（2-8人联机），主线1000题+领域300题+工坊无限题！欢迎上传自己创作的题目，加入制造烂梗的行列，一起来折磨你的小伙伴吧~",
+    "release_date": "2026 年 4 月 26 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "4259190": {
+    "name": "Kingdom Rush 6: Genesis TD",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4259190/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "4333400": {
+    "name": "RedM",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4333400/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "4348910": {
+    "name": "Probably Stolen",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4348910/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "4356080": {
+    "name": "App 4356080",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4356080/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "4356081": {
+    "name": "App 4356081",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4356081/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "4659620": {
+    "name": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4659620/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "4704690": {
+    "name": "MECCHA CHAMELEON",
+    "type": "game",
+    "genres": [
+      "休闲"
+    ],
+    "categories": [
+      "多人",
+      "玩家对战",
+      "线上玩家对战",
+      "Steam 创意工坊",
+      "视角舒适度",
+      "自定义音量控制",
+      "#category_playable_at_your_own_pace",
+      "无需应对快速反应事件",
+      "立体声",
+      "环绕声",
+      "Steam 云",
+      "家庭共享"
+    ],
+    "tags": [],
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1789464996",
+    "short_description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+    "release_date": "2026 年 6 月 9 日",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "4704691": {
+    "name": "App 4704691",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4704691/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "4924840": {
+    "name": "Touhou Koumakyou: Classic - the Embodiment of Scarlet Devil",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4924840/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  },
+  "467294750": {
+    "name": "App 467294750",
+    "type": "game",
+    "genres": [],
+    "categories": [],
+    "tags": [],
+    "header_image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/467294750/header.jpg",
+    "short_description": "",
+    "release_date": "",
+    "is_free": false,
+    "positive": 0,
+    "negative": 0
+  }
+}
